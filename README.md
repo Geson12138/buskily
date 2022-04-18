@@ -1,2 +1,2 @@
-# My_awsome_code
+# My_awesome_code
 'Hello World'
